@@ -2,8 +2,6 @@
 
 **Physics Graduate Student | Exploring Physics & Astrophysics**
 
-"General Description"
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,4 +10,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
+
+### Languages and Tools
+
+<img align="left" alt="Java" width=30px style="padding-right:10px; src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          "/>
