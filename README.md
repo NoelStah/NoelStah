@@ -2,7 +2,7 @@
 
 **:scientist: Physics Graduate Student | Exploring Physics & Astrophysics**
 
-#
+---
 
 ### :toolbox: Languages and Tools
 
